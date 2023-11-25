@@ -1,0 +1,3 @@
+hey file1 help me to underastand git stash command
+
+updated ............
