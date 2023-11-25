@@ -1,0 +1,2 @@
+this is my first file go to cr by using git
+updated to test the git reset command
